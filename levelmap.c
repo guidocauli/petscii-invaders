@@ -1,3 +1,13 @@
+/*
+	PETSCII Invaders by Guido Cauli 2022
+	Copyright 2022 Guido Cauli <guido.cauli@gmail.com>
+
+	Quest'opera è stata rilasciata con licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale. 
+	Per leggere una copia della licenza visita il sito web http://creativecommons.org/licenses/by-nc-nd/4.0/ o spedisci una lettera a
+	Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+*/
+
 const byte levelMap[10][54]={ 
 	{1,9,4,	1,12,4,	1,15,4,	1,18,4,	1,21,4,	1,24,4,	
 	1,7,7,	1,10,7,	1,13,7,	1,16,7,	1,19,7,	1,22,7,	1,25,7,	1,28,7, 1,6,4, 1,27,4, 1,30,4, 1,4,7,},
