@@ -10,4 +10,3 @@ You can compile the software with CC65 https://cc65.github.io/
 
 cl65 -t c64 -Cl -Orsi invaders.c c64-stdjoy.o
 
-# end
